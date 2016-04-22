@@ -38,3 +38,9 @@ Click on the button above that says **Download ZIP**, and save the contents of t
  4. Double-click on the icon you've just created. If everything's working a command window should open (you won't need to use this one), and then a tab should open in your default browser. It should say 'jupyter' at the top. The files you saved in your IPython directory will be listed on this screen.
 
  5.   Click on First.ipnyb. A new tab should open in your browser. Read the content and follow the instructions.
+
+ 6.   When you've finished your session doing ctrl-C twice in the IPython window will close it.
+    
+ From the file list when Jupyter/IPython opens you can navigate down to subfolders but not up, so you might to prefer to put your IPython (Py 2.7) Notebook in a higher folder, such as My Documents and navigate down to the appropriate folder at the start of a session.
+
+This makes it seem very complicated but once thing's are set up it's quite simple to use - good luck!
