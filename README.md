@@ -1,5 +1,5 @@
 # Notebooks
-## Matthew Wright
+### Matthew Wright
 This repository contains some of the IPython notebooks I use for teaching. The links below will let you view them; for instructions on how to run them see below.
 
 I suggest working through them in this order:
@@ -29,18 +29,18 @@ Click on the button above that says **Download ZIP**, and save the contents of t
 
 ### Setting up Jupyter/IPython
 
- 1.   Click on the Start Button (the Windows logo on the far left of the toolbar). Go to All Programs -> Programming Languages -> Anaconda 2.3 (64-bit).
+ 1.   Click on the Start Button (the Windows logo on the far left of the toolbar). Go to All Programs -> Programming Languages -> Anaconda 2.3 (64-bit) [or whichever version you have].
 
  2.   There will normally be three versions of IPython called  IPython (Py 2.7), IPython (Py 2.7) Notebook and IPython (Py 2.7) QTConsole. **Don't open any of them!** Instead, right-click on IPython (Py 2.7) Notebook and select 'copy'.
 
- 3. Go back to the folder you created right-click and select 'paste'.
+ 3. Go back to the folder you created, right-click and select 'paste'. This should create shortcut icon in your folder.
 
  4. Double-click on the icon you've just created. If everything's working a command window should open (you won't need to use this one), and then a tab should open in your default browser. It should say 'jupyter' at the top. The files you saved in your IPython directory will be listed on this screen.
 
- 5.   Click on First.ipnyb. A new tab should open in your browser. Read the content and follow the instructions.
+ 5.   Click on First.ipnyb in this list. A new tab should open in your browser. Read the content and follow the instructions.
 
  6.   When you've finished your session doing ctrl-C  in the IPython window will close it.
     
- From the file list when Jupyter/IPython opens you can navigate down to subfolders but not up, so you might to prefer to put your IPython (Py 2.7) Notebook in a higher folder, such as My Documents and navigate down to the appropriate folder at the start of a session.
+From the file list when Jupyter/IPython opens you can navigate down to subfolders but not up, so you might to prefer to put your IPython (Py 2.7) Notebook in a higher folder, such as My Documents and navigate down to the appropriate folder at the start of a session.
 
-This makes it seem very complicated but once thing's are set up it's quite simple to use - good luck!
+This makes it seem very complicated but once things are set up it's quite simple to use - good luck!
