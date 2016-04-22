@@ -8,4 +8,4 @@ I suggest working through them in this order:
 
 Here's a link to a notebook with some maths in it: [2D plotting](Plot2D.ipynb)
 
-Here's the same link via nbviewer: [2D plotting](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/Plot2D.ipynb)
+Here's the same link via nbviewer: [Harmonic waves](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/Harmonic waves.ipynb)
