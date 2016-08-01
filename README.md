@@ -17,11 +17,11 @@ I suggest working through them in this order:
 
 By following the links above you can view these notebooks from their source on the internet, but if you want to run the code in them you'll need to have Jupyter/IPython installed on your computer and you'll need local copies of the notebooks. These instructions tell you how to do both on a UDE PC at the University of Southampton.
 
-Jupyter is the new name for IPython, chosen to reflect the fact that it can work with multiple languages, notably JUlia, PYthon and R. Not all distributions have caught up with the change so you'll see both names.
+Jupyter is the new name for IPython, chosen to reflect the fact that it can work with multiple languages, notably JUlia, PYthon and R. Not all distributions have caught up with the change so you'll see both names. I'll assume your installation has IPython for the rest of these instructions.
 
 ### Installing Jupyter/IPython
 
-If you've got Anaconda installed on your computer you've already got it (though it'll be called IPython). If you haven't then install it from the Additional Software link on your desktop.
+If you've got Anaconda installed on your computer you've already got it (though it'll probably be called IPython). If you haven't then install it from the Additional Software link on your desktop.
 
 ### Copying the notebook files.
 
