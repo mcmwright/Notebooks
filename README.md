@@ -1,6 +1,6 @@
 # Notebooks
 ### Matthew Wright
-This repository contains some of the IPython notebooks I use for teaching. The links below will let you view them; for instructions on how to run them see below.
+This repository contains some of the Jupyter notebooks I use for teaching. The links below will let you view them; for instructions on how to run them see below.
 
 I suggest working through them in this order:
 
