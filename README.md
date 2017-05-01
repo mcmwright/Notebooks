@@ -25,4 +25,4 @@ If you've got Anaconda installed on your computer you've already got it. If you 
 
 Create a folder on your PC somewhere in your My Documents folder. 
 
-Click on the button above that says **Download ZIP**, and save the contents of the resulting zip folder in your new folder. You can achieve the same effect by right-clicking on the filenames above (e.g. `First.ipynb`) and selecting 'save file as', it's just a bit more laborious because you have to do it one at a time.
+Click on the green button above that says **Clone or Download** and then select **Download ZIP**, and save the contents of the resulting zip folder in your new folder. You can achieve the same effect by right-clicking on the filenames above (e.g. `First.ipynb`) and selecting 'save file as', it's just a bit more laborious because you have to do it one at a time.
