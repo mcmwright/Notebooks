@@ -4,14 +4,12 @@ This repository contains some of the Jupyter notebooks I use for teaching. The l
 
 I suggest working through them in this order:
 
-1. **Notebooks** to learn about the notebook interface.
+1. **First** to learn about the notebook interface.
 2. **Python** for a reminder of Python.
 3. **NumPy** for a brief introduction to Numpy.
 4. **Plot 2D** to explain how to evaluate and plot functions of two variables.
-5. **1D waves** to get started with waves.
+5. **Control waves 1** to get started with waves.
 6. **Harmonic waves** to extend the concepts.
-7. **More plane waves** for more animated plane wave interference patterns.
-8. **Design** to try a design problem requiring the optimization of the amplitude and phase of a point source so as to actively control the sound at a point in a plane wave.
 
 ## Working with Jupyter/IPython notebooks on your computer
 
