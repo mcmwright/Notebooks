@@ -17,32 +17,14 @@ I suggest working through them in this order:
 
 By following the links above you can view these notebooks from their source on the internet, but if you want to run the code in them you'll need to have Jupyter/IPython installed on your computer and you'll need local copies of the notebooks. These instructions tell you how to do both on a UDE PC at the University of Southampton.
 
-Jupyter is the new name for IPython, chosen to reflect the fact that it can work with multiple languages, notably JUlia, PYthon and R. Not all distributions have caught up with the change so you'll see both names. I'll assume your installation has IPython for the rest of these instructions.
+Jupyter is the new name for IPython, chosen to reflect the fact that it can work with multiple languages, notably JUlia, PYthon and R. 
 
-### Installing Jupyter/IPython
+### Installing Jupyter
 
-If you've got Anaconda installed on your computer you've already got it (though it'll probably be called IPython). If you haven't then install it from the Additional Software link on your desktop.
+If you've got Anaconda installed on your computer you've already got it. If you haven't then install it from the Additional Software link on your desktop.
 
 ### Copying the notebook files.
 
 Create a folder on your PC somewhere in your My Documents folder. 
 
 Click on the button above that says **Download ZIP**, and save the contents of the resulting zip folder in your new folder. You can achieve the same effect by right-clicking on the filenames above (e.g. `First.ipynb`) and selecting 'save file as', it's just a bit more laborious because you have to do it one at a time.
-
-### Setting up Jupyter/IPython
-
- 1.   Click on the Start Button (the Windows logo on the far left of the toolbar). Go to All Programs -> Programming Languages -> Anaconda 2.3 (64-bit) [or whichever version you have].
-
- 2.   There will normally be three versions of IPython called  IPython (Py 2.7), IPython (Py 2.7) Notebook and IPython (Py 2.7) QTConsole. **Don't open any of them!** Instead, right-click on IPython (Py 2.7) Notebook and select 'copy'.
-
- 3. Go back to the folder you created, right-click and select 'paste'. This should create shortcut icon in your folder.
-
- 4. Double-click on the icon you've just created. If everything's working a command window should open (you won't need to use this one), and then a tab should open in your default browser. It should say 'jupyter' at the top. The files you saved in your IPython directory will be listed on this screen.
-
- 5.   Click on First.ipnyb in this list. A new tab should open in your browser. Read the content and follow the instructions.
-
- 6.   When you've finished your session doing ctrl-C  in the IPython window will close it.
-    
-From the file list when Jupyter/IPython opens you can navigate down to subfolders but not up, so you might to prefer to put your IPython (Py 2.7) Notebook in a higher folder, such as My Documents and navigate down to the appropriate folder at the start of a session.
-
-This makes it seem very complicated but once things are set up it's quite simple to use - good luck!
