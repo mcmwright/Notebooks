@@ -4,14 +4,14 @@ This repository contains some of the IPython notebooks I use for teaching. The l
 
 I suggest working through them in this order:
 
-1. [Notebooks](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/First.ipynb) to learn about the notebook interface.
-2. [Python](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/python.ipynb) for a reminder of Python.
-3. [NumPy](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/numpy.ipynb) for a brief introduction to Numpy.
-4. [Plot 2D](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/Plot2D.ipynb) to explain how to evaluate and plot functions of two variables.
-5. [1D waves](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/Control waves 1.ipynb) to get started with waves.
-6. [Harmonic waves](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/Harmonic waves.ipynb) to extend the concepts.
-7. [More plane waves](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/More plane waves.ipynb) for more animated plane wave interference patterns.
-8. [Design](http://nbviewer.ipython.org/urls/github.com/mcmwright/Notebooks/blob/master/Control waves 1.ipynb) to try a design problem requiring the optimization of the amplitude and phase of a point source so as to actively control the sound at a point in a plane wave.
+1. **Notebooks** to learn about the notebook interface.
+2. **Python** for a reminder of Python.
+3. **NumPy** for a brief introduction to Numpy.
+4. **Plot 2D** to explain how to evaluate and plot functions of two variables.
+5. **1D waves** to get started with waves.
+6. **Harmonic waves** to extend the concepts.
+7. **More plane waves** for more animated plane wave interference patterns.
+8. **Design** to try a design problem requiring the optimization of the amplitude and phase of a point source so as to actively control the sound at a point in a plane wave.
 
 ## Working with Jupyter/IPython notebooks on your computer
 
